@@ -1,2 +1,2 @@
 # Number-Game-
-Its a Javascript Tutuorial practise and also i am trying to study git hub 
+Its a Javascript Tutuorial practise by mozilla developers and also i am trying to study git hub 
